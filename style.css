@@ -1,0 +1,36 @@
+
+    h1 {
+      color: #333;
+    }
+    label, input, button {
+      font-size: 1.1em;
+      margin: 8px;
+    }
+    input[type="number"] {
+      width: 80px;
+      padding: 5px;
+    }
+    button {
+      padding: 7px 18px;
+      background: #007bff;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #0056b3;
+    }
+    #result {
+      margin-top: 20px;
+      font-size: 1.3em;
+      color: #007bff;
+      font-weight: bold;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background: #3eff03;
+      padding: 40px;
+      text-align: center;
+    }
